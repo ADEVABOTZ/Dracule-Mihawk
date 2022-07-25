@@ -57,7 +57,7 @@ global.thumbnail = fs.readFileSync('./media/ichi.mp4')
 //===> UCAPAN WELCOME AND LEAVE
 global.quotes = {
 welcome: 'Semoga Kamu Betah Berada Disini Dan Jangan Lupa Untuk Selalu Mengikuti Rules Yang Ada',
-leave: 'Semoga Amal Ibadahmu Diterima Disisi-Nya'
+leave: 'Bye² Beban Gc👋'
 }
 
 //===> QUOTES SETIAP MENU
