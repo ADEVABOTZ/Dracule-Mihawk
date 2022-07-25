@@ -310,7 +310,7 @@ exports.othermenu = (prefix) => {
 }
 
 exports.donasi = () => {
-  return`Jika Ingin Melakukan Donasi Diharapkan Untuk Melakukan Scan Qr Code Diatas Atau Bisa Chat Owner
+  return`Jika Ingin Melakukan Donasi Diharapkan Untuk Chat Owner
 
 Open Sewa Bot :
 📆 4k/Minggu
