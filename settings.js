@@ -50,9 +50,11 @@ prem: '*Khusus User Premium*'
 }
 
 //===> KALAU GANTI FOTO GANTI JUGA NAMA NYA
-global.thumb = fs.readFileSync('./media/ichi.jpeg')
+global.thumb = fs.readFileSync('./media/Tak berjudul1_20220614104451.png
+')
 global.donasi = fs.readFileSync('./media/donasi.jpg')
-global.thumbnail = fs.readFileSync('./media/ichi.mp4')
+global.thumbnail = fs.readFileSync('./media/Tak berjudul1_20220614104451.png
+')
 
 //===> UCAPAN WELCOME AND LEAVE
 global.quotes = {
