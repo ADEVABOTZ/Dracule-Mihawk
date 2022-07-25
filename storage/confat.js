@@ -310,13 +310,13 @@ exports.othermenu = (prefix) => {
 }
 
 exports.donasi = () => {
-  return`Jika Ingin Melakukan Donasi Diharapkan Untuk Melakukan Scan Qr Code Diatas
+  return`Jika Ingin Melakukan Donasi Diharapkan Untuk Melakukan Scan Qr Code Diatas Atau Bisa Chat Owner
 
-Rental Bot WhatsApp :
-📆 10k/Minggu
-📆 20k/Bulan
-📆 100k/Tahun
-🍒 Permanen? Buat Bot Sendiri
+Open Sewa Bot :
+📆 4k/Minggu
+📆 6k/Bulan
+📆 8k/Tahun
+🍒 10k/Permanen
 `
 }
 
